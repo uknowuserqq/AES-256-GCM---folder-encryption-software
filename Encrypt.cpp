@@ -74,7 +74,7 @@ int main() {
 
     return 0;
 }
-// Codigo creado por t.me/Valen_Qq    (Telegram) y ...h6236   (Tiktok)
+// Codigo creado por t.me/Valen_Qq    (Telegram) y uknowuser_qq   (Tiktok)
 
 
 
