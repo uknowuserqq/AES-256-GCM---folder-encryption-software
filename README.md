@@ -11,7 +11,7 @@
 ### 🚀 Pasos 
 
 1. **Descarga el archivo**
-   Descarga el archivo `Ransomware.cpp` 
+   Descarga el archivo `Encrypt.cpp` 
 
 2. **Configuración**
    Abre el archivo y dirígete a la **línea 53**. Modifica la ruta de la siguiente manera:
