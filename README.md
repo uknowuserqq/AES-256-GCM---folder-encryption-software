@@ -21,7 +21,7 @@ Guarda los cambios (Ctrl+S)
 
 Abri una terminal
    
-Entrar a la carpeta donde este el archivo "Ransomware.cpp": cd [Ruta de la carpeta]
+Entrar a la carpeta donde este el archivo "Encrypt.cpp": cd [Ruta de la carpeta]
 
 Compilar: g++ -std=c++17 Encrypt.cpp -o Encrypt -lssl -lcrypto
 
