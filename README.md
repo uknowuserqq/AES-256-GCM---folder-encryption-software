@@ -1,4 +1,4 @@
-# 🛡️ C++ AES-256 - Ransomware
+# 🛡️ C++ AES-256 - Folder Encrypter
 
 > [!CAUTION]
 > ### ⚠️ ALERTA:
@@ -23,6 +23,6 @@ Abri una terminal
    
 Entrar a la carpeta donde este el archivo "Ransomware.cpp": cd [Ruta de la carpeta]
 
-Compilar: g++ -std=c++17 Ransomware.cpp -o Ransomware -lssl -lcrypto
+Compilar: g++ -std=c++17 Encrypt.cpp -o Encrypt -lssl -lcrypto
 
-Ejecutar: ./Ransomware
+Ejecutar: ./Encrypt
